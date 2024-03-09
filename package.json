@@ -1,0 +1,32 @@
+{
+  "name": "minum-kopi-asik",
+  "version": "1.0.0",
+  "description": "minum kopi bercampur dengan teman asik",
+  "main": "index.js",
+  "scripts": {
+    "test": "minumkopi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/minum-kopi-asik.git"
+  },
+  "keywords": [
+    "Minum",
+    "Kopi",
+    "Asik",
+    "Bersama",
+    "Teman"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/minum-kopi-asik/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/minum-kopi-asik#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
